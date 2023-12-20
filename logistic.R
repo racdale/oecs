@@ -30,7 +30,7 @@ set.seed(42) # recreate exact plot from entry
 
 pdf(file='logistic.pdf',height=7,width=7)
 
-layout_matrix <- matrix(c(1,2,3,4,5,5,5,5),byrow = T,nrow = 4)
+layout_matrix = matrix(c(1,2,3,4,5,5,5,5),byrow = T,nrow = 4)
 layout(layout_matrix)
 
 par(oma=c(4,4,0,0),mar=c(0,0,4,2)+0.1)
