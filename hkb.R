@@ -1,7 +1,9 @@
 
 #
 # 
-# general structure of basic HKB model
+# general structure of basic HKB model / coded by Rick Dale, fall 2023
+#   informed by the following, with more derivation and examples:
+#   Kelso (2008) http://www.scholarpedia.org/article/Haken-Kelso-Bunz_model
 #
 #
 
