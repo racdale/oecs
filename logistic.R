@@ -1,7 +1,10 @@
 
 #
 #
-# illustration of logistic map's behavior
+# illustration of logistic map's behavior / coded by Rick Dale, fall 2023
+#   for discussion of this simple model's theoretical implications, see:
+#   Mitchell (2009) Complexity: A Guided Tour 
+#   https://global.oup.com/academic/product/complexity-9780199798100
 #
 #
 
