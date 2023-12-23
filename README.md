@@ -1,5 +1,5 @@
 # OECS
-Code for illustrations in Dale (submitted) introducing complex dynamical systems
+Code for illustrations in Dale (submitted) introducing complex dynamical systems. Illustrations are in R. They are meant to be very simple and brief for newcomers to this domain of cognitive science.
 
 # logistic.R
 
