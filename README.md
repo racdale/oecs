@@ -11,7 +11,7 @@ Illustration of perhaps the simplest version of the Haken-Kelso-Bunz model ($\do
 
 # rt_fractal.R
 
-Using data from Mahmoodi et al. (2023), a simple illustration of how thousands of reaction times have structure similar to fractal organization. The illustration is made by plotting successively "zoomed" segments of the reaction-time series.
+Using data from Van Orden et al. (2005), a simple illustration of how thousands of reaction times have structure similar to fractal organization. The illustration is made by plotting successively "zoomed" segments of the reaction-time series.
 
 # social_graph.R
 
